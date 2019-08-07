@@ -1,2 +1,2 @@
 # Azure-Scripts
-Scripts for managing Azure Resources
+My azure powershell script repositpry. Laugh all you want :)
