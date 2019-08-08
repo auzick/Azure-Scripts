@@ -1,7 +1,7 @@
-$SubscriptionID = 'ca638f2c-686f-4ae0-9525-f04b947a5491'
-$ResourceGroup = "SC92B"
-$VmName = 'sc92B'
-$DiskName = 'SC92B-OS-2'
+$SubscriptionID = ''
+$ResourceGroup = ""
+$VmName = ''
+$DiskName = ''
 
 Function Login
 {
